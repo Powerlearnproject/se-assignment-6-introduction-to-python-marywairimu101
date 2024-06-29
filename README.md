@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/WfNmjXUk)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15323940&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-6
  Assignment: Introduction to Python
 Instructions:
@@ -35,6 +37,10 @@ Answer the following questions based on your understanding of Python programming
 10. File I/O:
     - How do you read from and write to files in Python? Write a script that reads the content of a file and prints it to the console, and another script that writes a list of strings to a file.
 
+
+Assignment Submission:
+Here is the link to my assignments.
+<a href="https://eu.docworkspace.com/d/sIEm6wv6FAuad_7MG">Click Here</a>
 # Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide code snippets or complete scripts where applicable.
